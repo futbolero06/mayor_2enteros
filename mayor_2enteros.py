@@ -11,7 +11,7 @@ y=int(input("digite el valor de y:  "))
 
 #processing
 if x == y:
-    print("los numeros son iguales: ")
+    print("los numeros son iguales... ")
 else:
     if x>y:
         mayor =x
@@ -22,6 +22,6 @@ else:
     print("-----el numero mayor es------")
     print("---------------------------")
 
-    print("El mayor entre " + str(x) + str(y) + "es:  " + str(mayor))
+    print("El mayor entre " + str(x) + " y " + str(y) + " es:  " + str(mayor))
     
 
