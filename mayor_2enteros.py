@@ -18,6 +18,10 @@ else:
     else:
         mayor = y 
     #output
-    print("El mayor entre " + str(x) + str(y) + "es" + str(mayor))
+    print("----------------------------")
+    print("-----el numero mayor es------")
+    print("---------------------------")
+
+    print("El mayor entre " + str(x) + str(y) + "es:  " + str(mayor))
     
 
